@@ -1,26 +1,45 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import Menu from './Components/Menu';
+import Footer from './Components/Footer';
+import ProjectsPage from './ProjectsPage';
+import Modal from './Components/Model';
+import Jumbotron from './Components/Jumbotron'
+import { render } from '@testing-library/react';
+import {
+    BrowserRouter as Router,
+    Switch,
+    Route,
+    Link
+} from "react-router-dom";
+import ResumePage from './ResumePage';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends React.Component {
+    state = {
+        JumbotronDisplay: 'projects',
+    }
+    render() {
+        return (
+            <div>
+                <Router>
+                    <Menu />
+                    <div>
+                        <Switch>
+                            <Route path="/projects">
+                                <ProjectsPage />
+                            </Route>
+                            <Route path="/resume">
+                                <ResumePage />
+                            </Route>
+                            <Route path="/">
+                                About
+                            </Route>
+                        </Switch>
+                    </div>
+                    <Footer />
+
+                </Router>
+            </div>)
+    };
 }
 
 export default App;
