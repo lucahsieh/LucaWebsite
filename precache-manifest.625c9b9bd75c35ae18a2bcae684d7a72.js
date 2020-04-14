@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "27da05d6636433a8b6d160537fbde5c7",
+    "revision": "8bb0d1d6ef13ab470d102e717d068bc4",
     "url": "/LucaWebsite/index.html"
   },
   {
-    "revision": "852cd2628c482b2123d0",
+    "revision": "fa102c2e9a9ef1ec1338",
     "url": "/LucaWebsite/static/css/2.f524894f.chunk.css"
   },
   {
-    "revision": "852cd2628c482b2123d0",
-    "url": "/LucaWebsite/static/js/2.9a9f5648.chunk.js"
+    "revision": "fa102c2e9a9ef1ec1338",
+    "url": "/LucaWebsite/static/js/2.f23278ca.chunk.js"
   },
   {
     "revision": "b0ddab79c762e89872ef1603cd4124e8",
-    "url": "/LucaWebsite/static/js/2.9a9f5648.chunk.js.LICENSE.txt"
+    "url": "/LucaWebsite/static/js/2.f23278ca.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1f2b30b01ebcfbb6c871",
-    "url": "/LucaWebsite/static/js/main.3f1387be.chunk.js"
+    "revision": "dca9acfde927946e4142",
+    "url": "/LucaWebsite/static/js/main.72227b15.chunk.js"
   },
   {
     "revision": "aa3a95d711ff70b40f56",
@@ -130,6 +130,30 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fbe934bae93f3c52057bb9637854a89e",
     "url": "/LucaWebsite/static/media/experience_workshop1.fbe934ba.png"
+  },
+  {
+    "revision": "2bc29559366f68eb79ccbae8f1760a75",
+    "url": "/LucaWebsite/static/media/interests1.2bc29559.png"
+  },
+  {
+    "revision": "b1457779d8d82f3f4df5e90302dbc875",
+    "url": "/LucaWebsite/static/media/interests2.b1457779.png"
+  },
+  {
+    "revision": "708938d99d15a91871f9dcb519f77602",
+    "url": "/LucaWebsite/static/media/interests3.708938d9.png"
+  },
+  {
+    "revision": "5078020f866b4d1968a7b86df3702a2e",
+    "url": "/LucaWebsite/static/media/interests4.5078020f.png"
+  },
+  {
+    "revision": "cbf29d1969e7c6b77e5d80cc2fd9abfa",
+    "url": "/LucaWebsite/static/media/interests5.cbf29d19.png"
+  },
+  {
+    "revision": "e6854b91e971d94606767a269846d8d6",
+    "url": "/LucaWebsite/static/media/interests6.e6854b91.png"
   },
   {
     "revision": "a551b19edea3d5588ceeeac2f1689afa",

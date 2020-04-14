@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/LucaWebsite/static/js/main.3f1387be.chunk.js",
-    "main.js.map": "/LucaWebsite/static/js/main.3f1387be.chunk.js.map",
+    "main.js": "/LucaWebsite/static/js/main.72227b15.chunk.js",
+    "main.js.map": "/LucaWebsite/static/js/main.72227b15.chunk.js.map",
     "runtime-main.js": "/LucaWebsite/static/js/runtime-main.4ff55b7c.js",
     "runtime-main.js.map": "/LucaWebsite/static/js/runtime-main.4ff55b7c.js.map",
     "static/css/2.f524894f.chunk.css": "/LucaWebsite/static/css/2.f524894f.chunk.css",
-    "static/js/2.9a9f5648.chunk.js": "/LucaWebsite/static/js/2.9a9f5648.chunk.js",
-    "static/js/2.9a9f5648.chunk.js.map": "/LucaWebsite/static/js/2.9a9f5648.chunk.js.map",
+    "static/js/2.f23278ca.chunk.js": "/LucaWebsite/static/js/2.f23278ca.chunk.js",
+    "static/js/2.f23278ca.chunk.js.map": "/LucaWebsite/static/js/2.f23278ca.chunk.js.map",
     "index.html": "/LucaWebsite/index.html",
-    "precache-manifest.6e5172b9a754e963fe282f26d8cc752a.js": "/LucaWebsite/precache-manifest.6e5172b9a754e963fe282f26d8cc752a.js",
+    "precache-manifest.625c9b9bd75c35ae18a2bcae684d7a72.js": "/LucaWebsite/precache-manifest.625c9b9bd75c35ae18a2bcae684d7a72.js",
     "service-worker.js": "/LucaWebsite/service-worker.js",
     "static/css/2.f524894f.chunk.css.map": "/LucaWebsite/static/css/2.f524894f.chunk.css.map",
-    "static/js/2.9a9f5648.chunk.js.LICENSE.txt": "/LucaWebsite/static/js/2.9a9f5648.chunk.js.LICENSE.txt",
+    "static/js/2.f23278ca.chunk.js.LICENSE.txt": "/LucaWebsite/static/js/2.f23278ca.chunk.js.LICENSE.txt",
     "static/media/DictateTube1.png": "/LucaWebsite/static/media/DictateTube1.8fdb680e.png",
     "static/media/DictateTube3.png": "/LucaWebsite/static/media/DictateTube3.6117fe3d.png",
     "static/media/DictateTube4.png": "/LucaWebsite/static/media/DictateTube4.df45bf02.png",
@@ -39,6 +39,12 @@
     "static/media/VanArt1.png": "/LucaWebsite/static/media/VanArt1.6e08f5bb.png",
     "static/media/VanArt2.png": "/LucaWebsite/static/media/VanArt2.a0a74917.png",
     "static/media/experience_workshop1.png": "/LucaWebsite/static/media/experience_workshop1.fbe934ba.png",
+    "static/media/interests1.png": "/LucaWebsite/static/media/interests1.2bc29559.png",
+    "static/media/interests2.png": "/LucaWebsite/static/media/interests2.b1457779.png",
+    "static/media/interests3.png": "/LucaWebsite/static/media/interests3.708938d9.png",
+    "static/media/interests4.png": "/LucaWebsite/static/media/interests4.5078020f.png",
+    "static/media/interests5.png": "/LucaWebsite/static/media/interests5.cbf29d19.png",
+    "static/media/interests6.png": "/LucaWebsite/static/media/interests6.e6854b91.png",
     "static/media/logo_lg_white.png": "/LucaWebsite/static/media/logo_lg_white.a551b19e.png",
     "static/media/mypicture_sm.png": "/LucaWebsite/static/media/mypicture_sm.34dbefad.png",
     "static/media/project_MineSweeper_icon-01.png": "/LucaWebsite/static/media/project_MineSweeper_icon-01.5a9fd6f6.png",
@@ -52,7 +58,7 @@
   "entrypoints": [
     "static/js/runtime-main.4ff55b7c.js",
     "static/css/2.f524894f.chunk.css",
-    "static/js/2.9a9f5648.chunk.js",
-    "static/js/main.3f1387be.chunk.js"
+    "static/js/2.f23278ca.chunk.js",
+    "static/js/main.72227b15.chunk.js"
   ]
 }
