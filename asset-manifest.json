@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/LucaWebsite/static/js/main.72227b15.chunk.js",
-    "main.js.map": "/LucaWebsite/static/js/main.72227b15.chunk.js.map",
+    "main.js": "/LucaWebsite/static/js/main.6db1829b.chunk.js",
+    "main.js.map": "/LucaWebsite/static/js/main.6db1829b.chunk.js.map",
     "runtime-main.js": "/LucaWebsite/static/js/runtime-main.4ff55b7c.js",
     "runtime-main.js.map": "/LucaWebsite/static/js/runtime-main.4ff55b7c.js.map",
     "static/css/2.f524894f.chunk.css": "/LucaWebsite/static/css/2.f524894f.chunk.css",
     "static/js/2.f23278ca.chunk.js": "/LucaWebsite/static/js/2.f23278ca.chunk.js",
     "static/js/2.f23278ca.chunk.js.map": "/LucaWebsite/static/js/2.f23278ca.chunk.js.map",
     "index.html": "/LucaWebsite/index.html",
-    "precache-manifest.625c9b9bd75c35ae18a2bcae684d7a72.js": "/LucaWebsite/precache-manifest.625c9b9bd75c35ae18a2bcae684d7a72.js",
+    "precache-manifest.ec7891dcc24f61614795475d337f583e.js": "/LucaWebsite/precache-manifest.ec7891dcc24f61614795475d337f583e.js",
     "service-worker.js": "/LucaWebsite/service-worker.js",
     "static/css/2.f524894f.chunk.css.map": "/LucaWebsite/static/css/2.f524894f.chunk.css.map",
     "static/js/2.f23278ca.chunk.js.LICENSE.txt": "/LucaWebsite/static/js/2.f23278ca.chunk.js.LICENSE.txt",
@@ -59,6 +59,6 @@
     "static/js/runtime-main.4ff55b7c.js",
     "static/css/2.f524894f.chunk.css",
     "static/js/2.f23278ca.chunk.js",
-    "static/js/main.72227b15.chunk.js"
+    "static/js/main.6db1829b.chunk.js"
   ]
 }
