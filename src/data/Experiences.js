@@ -1,4 +1,18 @@
 const Experiences = [
+      {
+        jobTitle: 'Software Developer',
+        note: '',
+        company: 'Reva Solutions',
+        location: 'Vancouver, BC, Canada',
+        startDate: new Date(2020, 6),
+        endDate: new Date(2020, 11),
+        description: [
+            'Developed and maintained a full-stack business application that automated utility billing process on ServiceNow Platform using JavaScript ES5',
+            'Integrated Box, google document AI and ServiceNow solution for clients to meet their unique business requirements',
+            'Participated in solutions design planning to address development requirements, and daily scrums to communicate progress and sync with the project team',
+            "Demonstrated quick ability to learn new technologies of clients' businesses and other required technologies to meet their use cases"
+        ]
+    },
     {
         jobTitle: 'Junior Software Developer',
         note: '(Co-op program)',
