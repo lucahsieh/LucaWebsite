@@ -5,7 +5,7 @@ const Experiences = [
         company: 'Reva Solutions',
         location: 'Vancouver, BC, Canada',
         startDate: new Date(2020, 6),
-        endDate: new Date(2020, 11),
+        endDate: new Date(),
         description: [
             'Developed and maintained a full-stack business application that automated utility billing process on ServiceNow Platform using JavaScript ES5',
             'Integrated Box, google document AI and ServiceNow solution for clients to meet their unique business requirements',
