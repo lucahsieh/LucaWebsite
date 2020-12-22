@@ -7,7 +7,8 @@ const Educations = [
         description: [
             'Studied in Information System option which focuses on learning the skills required for developing and deploying enterprise systems',
             'Learned software dvelopment strategies, dynamic web sites, databases and both Client and server side web development',
-            'Expected to graduated in May, 2020. CGPA:91%'
+            'Graduated with Distinction',
+            'Information System Option with GPA 89%'
         ]
     },
     {
