@@ -88,9 +88,7 @@ class ResumePage extends React.Component {
                     </Grid.Column>
                     <Grid.Column width={4} textAlign='left' className="align-self-center">
                         <List size='medium' relaxed>
-                            <List.Item icon='home' content='Vancouver, BC' />
-                            <List.Item icon='envelope' content={<a href="mailto:chungju.hsieh.ca@gmail.com">chungju.hsieh.ca@gmail.com</a>} />
-                            <List.Item icon='phone' content='+1 236 865-9199' />
+                            <List.Item icon='home' content='Canada' />
                             <List.Item icon='linkify' content={<a href="https://lucahsieh.github.io/">Website</a>} />
                             <List.Item icon='github' content={<a href="https://github.com/lucahsieh">Github</a>} />
                             <List.Item icon='linkedin' content={<a href="https://www.linkedin.com/in/lucahsieh/">Linkin</a>} />
